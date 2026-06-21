@@ -43,9 +43,6 @@ UART-Verilog
 │   ├── synthesized_schematic.png
 │   └── uart_waveform.png
 │
-├── Docs
-│   └── UART_Project_Report.pdf   (optional)
-│
 └── README.md
 ```
 
