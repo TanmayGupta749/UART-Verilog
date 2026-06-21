@@ -27,13 +27,22 @@ This project implements a UART (Universal Asynchronous Receiver Transmitter) in 
 ## Project Structure
 
 ```
-UART-Verilog/
+UART-Verilog
 │
-├── Baudgenerator.v
-├── UART_TX.v
-├── UART_RX.v
-├── UART_connection.v
-├── UART_tb.v
+├── RTL
+│   ├── Baudgenerator.v
+│   ├── UART_TX.v
+│   ├── UART_RX.v
+│   └── UART_connection.v
+│
+├── Testbench
+│   └── UART_tb.v
+│
+├── Waveforms
+│   └── uart_simulation.png
+│
+├── LICENSE
+│
 └── README.md
 ```
 
