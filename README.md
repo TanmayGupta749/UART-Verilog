@@ -38,10 +38,13 @@ UART-Verilog
 ├── Testbench
 │   └── UART_tb.v
 │
-├── Waveforms
-│   └── uart_simulation.png
+├── Images
+│   ├── rtl_block_diagram.png
+│   ├── synthesized_schematic.png
+│   └── uart_waveform.png
 │
-├── LICENSE
+├── Docs
+│   └── UART_Project_Report.pdf   (optional)
 │
 └── README.md
 ```
